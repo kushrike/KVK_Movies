@@ -1,0 +1,1 @@
+alert("LOGGED OUT SUCCESSFULLY!");
